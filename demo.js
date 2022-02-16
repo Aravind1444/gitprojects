@@ -8,3 +8,5 @@ else{
     console.log("a is not 1, but the value of a is " + a);
 }
 console.log("This is the end of the program");
+
+console.log("This is the master branch");
